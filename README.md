@@ -1,8 +1,13 @@
-Rohan Vaybhase
-Full Stack Developer | Java • Spring Boot • React
-Building scalable web applications
+Hi there 👋, I'm Rohan
+
+🎓 Final Year Computer Science Student from Mumbai, India
+
+💻 Passionate Full Stack Developer focused on building scalable web applications using Java, Spring Boot, React, and MySQL.
+
+🌱 Currently learning Backend Architecture, System Design, and building real-world projects.
 
 🚀 Tech Stack:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
