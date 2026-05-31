@@ -1,16 +1,27 @@
-## Hi there 👋
+ Hi 👋, I'm Rohan
 
-<!--
-**RonTheCoder50/RonTheCoder50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack:
+- Java
+- Spring Boot
+- React
+- MySQL
+- REST APIs
+
+🌱 Currently Learning:
+- Backend Core Concepts
+- System Design
+
+📫 Reach Me:
+- Email: rohanvaybhase50@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rohan-vaybhase-15661533a/
+- X/tweeter: https://x.com/Inosukeei_coder
+
+# Open To Work
+Looking for:
+- Software Developer Internships
+- Backend Developer Roles
+- Full Stack Developer Roles
