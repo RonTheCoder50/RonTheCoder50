@@ -32,4 +32,6 @@
 
 🐦 X: https://x.com/Inosukeei_coder
 
+🎈 portfolio: https://portfolio-lemon-five-46.vercel.app/
+
 ![](https://komarev.com/ghpvc/?username=RonTheCoder50)
